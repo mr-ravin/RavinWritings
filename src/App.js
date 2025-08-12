@@ -59,6 +59,7 @@ This story blends memory, emotion, and subtle symbolism to remind us that true l
      <b> 1. </b> <a target="_blank" rel="noopener noreferrer" href="https://mr-ravin.github.io/Aakhiri_Himmat.pdf">Github</a>
      <b> 2. </b> <a target="_blank" rel="noopener noreferrer" href="https://archive.org/details/Aakhiri-Himmat">Archive.org</a>
      <b> 3. </b><a target="_blank" rel="noopener noreferrer" href="https://medium.com/@ch.ravinkumar/%E0%A4%86%E0%A4%96%E0%A4%BC%E0%A4%BF%E0%A4%B0%E0%A5%80-%E0%A4%B9%E0%A4%BF%E0%A4%AE%E0%A5%8D%E0%A4%AE%E0%A4%A4-2a4052e8b454">Medium</a>
+     <b> 4. </b><a target="_blank" rel="noopener noreferrer" href="https://www.scribd.com/document/900517148/%E0%A4%86%E0%A4%96-%E0%A4%BF%E0%A4%B0%E0%A5%80-%E0%A4%B9%E0%A4%BF%E0%A4%AE-%E0%A4%AE%E0%A4%A4-Aakhiri-Himmat">Scribd</a>
      </p>
 
     </li>
