@@ -1,13 +1,15 @@
 import './App.css';
 import the_river_between_us from "./The_River_Between_Us__by_Ravin_Kumar.pdf"
 import aakhiri_himmat from "./Aakhiri_Himmat.pdf"
+import bas_insaan from "./Bas_Insaan.pdf"
+
 function App() {
   return (
     <div>
     <center><h1><b><i> Ravin Writings </i></b></h1></center>
    <br/>
    <div class="middle">
-     <ol>
+    <ol>
     <li>
     <b><u><a href={the_river_between_us} target="_blank" rel="noopener noreferrer" style={{color:"black"}}>The River Between Us: Because Even Rivers Choose Love</a></u></b>.<br/>
     
@@ -53,7 +55,7 @@ This story blends memory, emotion, and subtle symbolism to remind us that true l
 
       © 2025 <a href="https://mr-ravin.github.io" target="_blank" rel="noopener noreferrer">Ravin Kumar</a>
       </p>
-      <p align="justify">
+     <p align="justify">
      <b><i>Available on</i></b>:
      
      <b> 1. </b> <a target="_blank" rel="noopener noreferrer" href="https://mr-ravin.github.io/Aakhiri_Himmat.pdf">Github</a>
@@ -61,7 +63,34 @@ This story blends memory, emotion, and subtle symbolism to remind us that true l
      <b> 3. </b><a target="_blank" rel="noopener noreferrer" href="https://medium.com/@ch.ravinkumar/%E0%A4%86%E0%A4%96%E0%A4%BC%E0%A4%BF%E0%A4%B0%E0%A5%80-%E0%A4%B9%E0%A4%BF%E0%A4%AE%E0%A5%8D%E0%A4%AE%E0%A4%A4-2a4052e8b454">Medium</a>
      <b> 4. </b><a target="_blank" rel="noopener noreferrer" href="https://www.scribd.com/document/900517148/%E0%A4%86%E0%A4%96-%E0%A4%BF%E0%A4%B0%E0%A5%80-%E0%A4%B9%E0%A4%BF%E0%A4%AE-%E0%A4%AE%E0%A4%A4-Aakhiri-Himmat">Scribd</a>
      </p>
+    </li>
+    <br/><br/>
+    <li>
+    <b><u><a href={bas_insaan} target="_blank" rel="noopener noreferrer" style={{color:"black"}}>बस इंसान (Bas Insaan)</a></u></b>.<br/>
+— रविन कुमार<br/>
+    <p align="justify">
+      ज़ेहनी ज़ंजीरों से आज़ाद हो पाता,<br/>
+      काश इंसान बस इंसान हो पाता।<br/>
 
+      जन्नत और जहन्नुम के पार हो पाता,<br/>
+      काश इंसान बस इंसान हो पाता।<br/>
+
+      महफ़िल-ए-ज़िन्दगी में आबाद हो पाता,<br/>
+      काश इंसान बस इंसान हो पाता।<br/>
+
+      ढूँढे बिन उसे ख़ुदा, भगवान मिल पाता,<br/>
+      काश इंसान बस इंसान हो पाता।<br/><br/>
+
+      © 2025 <a href="https://mr-ravin.github.io" target="_blank" rel="noopener noreferrer">Ravin Kumar</a>
+    </p>
+     <p align="justify">
+     <b><i>Available on</i></b>:
+
+     <b> 1. </b> <a target="_blank" rel="noopener noreferrer" href="https://mr-ravin.github.io/Bas_Insaan.pdf">Github</a>
+     <b> 2. </b> <a target="_blank" rel="noopener noreferrer" href="https://archive.org/details/Bas-Insaan">Archive.org</a>
+     <b> 3. </b><a target="_blank" rel="noopener noreferrer" href="https://medium.com/@ch.ravinkumar/%E0%A4%AC%E0%A4%B8-%E0%A4%87%E0%A4%82%E0%A4%B8%E0%A4%BE%E0%A4%A8-12f757c1b4a8">Medium</a>
+     <b> 4. </b><a target="_blank" rel="noopener noreferrer" href="https://www.scribd.com/document/940525226/%E0%A4%AC%E0%A4%B8-%E0%A4%87%E0%A4%82%E0%A4%B8%E0%A4%BE%E0%A4%A8-Bas-Insaan">Scribd</a>
+     </p>   
     </li>
     </ol>
     
